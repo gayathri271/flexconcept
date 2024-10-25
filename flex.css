@@ -1,0 +1,64 @@
+.A1{
+    display: flex;
+    justify-content: center;
+}
+
+.A{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 0px 10px;
+    
+}
+.B{
+    display: flex;
+    background-color: green;
+    width: auto;
+    margin: 20px;
+
+}
+.B1{
+    margin-left: 20px;
+    padding-right: 300px;
+    align-content: center;
+    
+}
+.B2{
+    color: white;
+    margin: 20px;
+    align-content: center;
+}
+.B3{
+    background-color: lime;
+    margin: 10px 0px 10px 0px ;
+    border-radius: 5px;
+    padding: 10px 20px;
+    justify-content: space-evenly;
+}
+.B4{
+    padding: 10px;
+    margin: 10px;
+    align-content: center;
+}
+.C{
+    display: flex;
+    background-color: black;
+    margin: 20px;
+}
+.C1{
+    margin-left: 20px;
+    padding-right: 300px;
+    align-content: center;
+}
+.C2{
+    color: white;
+    margin: 20px;
+    align-content: center;
+}
+.C3{
+    margin: 20px 0px 10px 0px;
+    background-color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    justify-content: space-evenly;
+
+}
